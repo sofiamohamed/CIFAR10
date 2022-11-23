@@ -19,4 +19,11 @@ The classes are completely mutually exclusive. There is no overlap between autom
 
 Perform the task:
 
+Q1.Import the cifar10 dataset from 'keras datasets' perform all the data preprocessing required
+
+Q2.Build a CNN architecture with keras and stack an ANN on top of CNN
+
+Q3.Fit and evaluate the model.plot the training and validation curves
+
+
 
